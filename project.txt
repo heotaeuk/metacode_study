@@ -1,0 +1,1 @@
+project no : shipLeak-Copilot (음향,진동 ai진단 인프라 기반 선박 매관 미세누설 정비 지식 챗봇)
