@@ -1,0 +1,2 @@
+ShipLeak-Copilot
+음향, 진동 AI 진단 기반 선박배관 미세누설 정비 지식 챗봇
