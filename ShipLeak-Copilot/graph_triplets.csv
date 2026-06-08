@@ -1,0 +1,34 @@
+﻿subject,relation,object
+Valve Fault Diagnosis,includes,Seat Leakage
+Valve Fault Diagnosis,includes,Packing Leakage
+Valve Fault Diagnosis,includes,Cavitation
+Valve Fault Diagnosis,includes,Loose Fastener
+Valve Fault Diagnosis,includes,Foreign Object
+Seat Leakage,has_symptom,RMS Increase
+Seat Leakage,has_symptom,High Frequency Leakage Sound
+Seat Leakage,has_symptom,Pressure Drop
+Seat Leakage,caused_by,Seat Wear
+Seat Leakage,caused_by,Foreign Object Ingress
+Seat Leakage,caused_by,Disc Damage
+Seat Leakage,requires_action,Pipe Isolation
+Seat Leakage,requires_action,Pressure Release
+Seat Leakage,requires_action,Seat Inspection and Cleaning
+Seat Leakage,requires_action,Leak Test
+Packing Leakage,has_symptom,Stem Leakage
+Packing Leakage,has_symptom,Spectral Centroid Increase
+Packing Leakage,caused_by,Packing Aging
+Packing Leakage,caused_by,Insufficient Gland Tightening
+Packing Leakage,requires_action,Packing Replacement
+Packing Leakage,requires_action,Stem Surface Inspection
+Cavitation,has_symptom,Gravel-like Noise
+Cavitation,has_symptom,FFT Peak Increase
+Cavitation,caused_by,Excessive Pressure Drop
+Cavitation,caused_by,Excessive Flow Velocity
+Cavitation,requires_action,Operating Pressure Adjustment
+Cavitation,requires_action,Valve Selection Review
+Loose Fastener,has_symptom,Low Frequency Vibration Increase
+Loose Fastener,caused_by,Loose Bolting
+Loose Fastener,requires_action,Bolt Tightening Check
+Foreign Object,has_symptom,Intermittent Impact Noise
+Foreign Object,caused_by,Foreign Object Ingress
+Foreign Object,requires_action,Line Flushing
