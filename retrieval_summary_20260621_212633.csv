@@ -1,0 +1,5 @@
+﻿Experiment,질문수,평균_Top_Score,평균_Average_Score,Hit1_비율,HitK_비율
+Baseline: Original Chunk + Cosine,10,0.552,0.552,1.0,1.0
+Improved: Topic Alias + Cosine + Multi Query,10,0.6667,0.6178,0.9,1.0
+High Precision: Alias + FAQ + Cosine,10,0.6643,0.5935,1.0,1.0
+High Precision: Alias + FAQ + Cosine + Multi Query,10,0.7369,0.6736,1.0,1.0
