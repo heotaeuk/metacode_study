@@ -1,0 +1,17 @@
+{
+  "project": "ShipLeak-Copilot Valve RAG Vector DB",
+  "documents": [
+    "01_Maintenance_Manual.docx",
+    "02_Trouble_Guide.docx",
+    "03_Inspection_Procedure.docx",
+    "04_RAG_Data_Analysis_Report.docx",
+    "05_Presentation.pptx",
+    "06_QA_List.docx"
+  ],
+  "num_documents": 6,
+  "num_chunks": 19,
+  "chunk_size": 900,
+  "chunk_overlap": 150,
+  "embedding_method": "Local TF-IDF vectorizer, cosine similarity",
+  "note": "OpenAI/Chroma 없이 로컬에서 바로 검색 가능한 과제 제출용 Vector DB입니다."
+}
